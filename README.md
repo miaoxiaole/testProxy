@@ -1,0 +1,2 @@
+# testProxy
+static proxy
